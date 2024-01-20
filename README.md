@@ -8,5 +8,5 @@ I am working by myself for this term.
   Difficulty in Exercise 1:
       1. Learning Python on Exercism is not time-efficient due to insufficient tutorial on knowledge that is 
          required to complete the modules. Providing documents of functions would help. 
-  Link to Making the Grade exercise:
+  Link to Making the Grade exercise: [Making the Grade by Weisong Zhang](https://github.com/weisongzzz/datasci_223/blob/main/exercises/1-foundations/exercise.ipynb)
       
