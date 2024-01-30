@@ -14,4 +14,7 @@
         would help. 
          
   Link to Making the Grade exercise: [Making the Grade by Weisong Zhang](https://github.com/weisongzzz/datasci_223/blob/main/exercises/1-foundations/exercise.ipynb)
-      
+  
+  Link to Exercise 2 : [Exercise 2](https://github.com/weisongzzz/datasci_223/tree/Exercise2/exercises/2-data-munging)
+
+  Worked with Marlene Lin
